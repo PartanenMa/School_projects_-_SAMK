@@ -1,0 +1,8 @@
+Tehtävä 1-20 ratkaisu:
+
+Kirja on 730 sivua pitkä, plus 16 etusivua, 
+yhteensä 746, noin 750 sivua. Sivulla näyttää olevan noin 40 riviä, 
+mutta monilla sivuilla on paljon vähemmän. Oletetaan siis vaikka 30 riviä 
+sivua kohden ja 15 sanaa riviä kohden, jotka ovat molemmat ovat hyvin anteliaita.
+
+Siis 750 * 40 * 15 = 450 000 sanaa.

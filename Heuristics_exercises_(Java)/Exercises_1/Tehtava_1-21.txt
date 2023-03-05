@@ -1,0 +1,6 @@
+Tehtävä 1-21 ratkaisu:
+
+Miljoona sekuntia on (jaettuna ~50 s/min) 20 000 min.
+20 000 min on (jaettuna ~50 min/h) 400 h.
+Molemmissa tapauksissa nimittäjäksi 60 arvioitiin luvuksi 50. 
+Siksi molemmat ovat hieman suurempia kuin oikeat vastaukset, ehkä 20%.

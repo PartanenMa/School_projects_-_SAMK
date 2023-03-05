@@ -1,0 +1,22 @@
+Tehtävä 1-29 ratkaisu:
+
+Juoksutettuamme kaikki 25 hevosta 5 kilpailussa, eliminoimme 10 hevosta, jotka 
+sijoittuivat 4. tai 5. sijalle, ja ajamme sitten 5 3. sijan hevosta toisiaan 
+vastaan. Ajattele kilpailun voittajaa. Tiedämme jo 2 hevosta, jotka ovat 
+nopeampia, nimittäin hevoset, jotka voittivat sen ensimmäisellä kierroksella. 
+Siksi tämä hevonen on parhaimmillaan 3. nopein; ne 4 hevosta, 
+jotka se voitti toisella kierroksella, eivät voi olla top 3:ssa, 
+joten kaikki 4 voidaan pudottaa. Jäljelle jää 11 hevosta.
+
+Kilpailemme nyt niiden 5 hevosen kanssa, jotka kukin sijoittuivat 2. sijalle 
+kierroksella 1, ja harkitse 2. sijan hevosta kyseisessä kilpailussa. 
+Kuinka monta hevosta tiedämme olevan nopeampi? Hevonen, joka voitti sen 
+kierroksella 1, hevonen, joka voitti sen kierroksella 2, ja hevonen, 
+joka voitti sen kierroksella 1, ovat kaikki nopeampia. Siksi tämä 
+hevonen on parhaimmillaan 4. nopein. Joten voimme eliminoida kaikki 
+muut paitsi voittajan tästä kilpailusta, jättäen meille 7 hevosta.
+
+Nyt kilpailee 5 hevosta, jotka tulivat 1. sijalle kierroksella 1. Poistamme 
+alimman 2, jolloin meille jää yhteensä 5 hevosta. Nämä 5 voidaan sitten 
+kilpailla yhdessä, jolloin saadaan selville 3 parasta hevosta.
+Tämä toimenpide kesti 3 kierrosta 5, 3 ja 1 kilpailusta, yhteensä 9 kilpailua.

@@ -1,0 +1,6 @@
+Tehtävä 1-1 ratkaisu:
+
+Olkoon a = -1 ja b = -1.
+Sitten a + b = (-1) + (-1) = -2.
+Mutta min(a, b) = min(-1, -1) = -1.
+Koska -2 < -1, olemme osoittaneet että a + b < min(a, b).

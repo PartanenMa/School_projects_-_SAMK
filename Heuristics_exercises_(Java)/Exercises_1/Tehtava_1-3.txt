@@ -1,0 +1,8 @@
+Tehtävä 1-3 ratkaisu:
+
+Tämä voi tapahtua vain, jos tien kulkuun kuluva aika riippuu muustakin kuin sen pituudesta. 
+Esimerkiksi teillä on usein nopeusrajoituksia. 
+Oletetaan siis, että 2 tietä yhdistää toisiinsa ja joista toinen on 1 km pitkä, 
+mutta sen nopeusrajoitus on 1 km/h ja toinen joka on 2 km pitkä, 
+mutta jonka nopeusrajoitus on 4 km/h. 
+Vaikka toinen tie on kaksi kertaa pidempi, sen läpi kulkeminen kestää vain puolet ajasta.

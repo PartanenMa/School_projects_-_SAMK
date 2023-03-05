@@ -1,0 +1,16 @@
+Tehtävä 1-25 ratkaisu:
+
+a) 
+
+t(n) = a * n^2
+t(10,000) / t(1,000) = a * (10^4)^2 / (10^3)^2 = 10^8 / 10^8 = 100
+Eli t(10,000) = 100 sekuntia.
+
+b)
+
+t(n) a * n log n
+t(10,000) / t(1,000) = a * (10^4)log(10^4) / a * (10^3)log(10^3) 
+= 10 * log(10^4) / log(10^3) = 10 * 4/3 = 13.3
+
+Kun teimme oletuksen että log on kantaluku 10, eikä kantaluku e tai kantaluku 2.
+Joten t(10,000) = 13.3 sekuntia.

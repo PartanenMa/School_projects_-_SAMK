@@ -1,0 +1,25 @@
+Tehtävä 1-5 ratkaisu:
+
+Ensin laitan elementit repussa vasemmalta oikealle järjestyksessä, 
+jos ne sopivat, eli ensisovitusalgoritmin mukaan. Sitten laitan S:n elementit
+repussa pienimmästä suurimpaan, eli parhaimmin sopivaan algoritmiin. Viimeiseksi
+laitan S:n elementit repussa suurimmasta pienimpään.
+
+Olkoon S = {1, 2, 5, 9, 10} ja T = 22.
+
+Jos tajusin algoritmin oikein, se jatkaa elementtien lisäämistä vasemmalta oikealle, 
+kunnes enempää ei mahdu. Tässä tapauksessa se laittaa elementit {1, 2, 5, 9}
+pussiin(yht. 17), kun taas setti {1, 2, 9, 10} olisi antanut T = 22. 
+Siksi algoritmi on väärä.
+
+Sama kuin äskeisessä osassa, olkoon S = {1, 2, 5, 9, 10} ja T = 22.
+
+Ja aivan kuten edellisessä osassa, algoritmi sijoittaa elementit {1, 2, 5, 9}
+pussiin(yht. 17), kun taas setti {1, 2, 9, 10} olisi oikein antanut tuloksen 
+T = 22. Siksi algoritmi on väärä.
+
+Ja vieläkin kuten edellisissä, olkoon S = {1, 2, 5, 9, 10} ja T = 22.
+
+Tässä tapauksessa algoritmi sijoittaa osajoukon {10, 9} pussiin(yht. 19), 
+vaikka setti {1, 2, 9, 10} olisi oikein antanut tuloksen T = 22.
+Siksi algoritmi on väärä.
